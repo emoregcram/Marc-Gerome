@@ -1,3 +1,5 @@
+![SDG-1-No-Poverty -Meaning-Explained-scaled](https://github.com/user-attachments/assets/b44e2702-1fb9-433f-86c9-a79c28dbc7f6)
+
 SDG 1: No Poverty 🌍
 Sustainable Development Goal 1 (SDG 1) aims to end poverty in all its forms everywhere. It is the first of the 17 Sustainable Development Goals established by the United Nations in 2015, focusing on ensuring access to basic needs and reducing inequalities to create a more equitable world.
 
