@@ -15,3 +15,4 @@ Key Features of This Repository
 Projects: Explore projects that contribute to reducing poverty through technology and education.
 Resources: Access articles, tools, and frameworks related to SDG 1.
 Open Source: Collaborate and contribute to ongoing efforts to achieve this vital goal.
+https://www.google.com/search?sca_esv=e1265ee66efd81f4&q=no+poverty&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JzWreY9LW7LdGrLDAFqYDH3DF_waBUhtl7i7Xh3ndQb6Fn8zyWqVNDC6kxH2uU5tjMxNiRyN0Tu_IJ5U2F44t3g61CzFz2JBWAhJTb-xht_6LzY7f4dcpMn6CNH9wv57t_WlU8aPuzkPZ1e9zslXUCZi2jsHKdTxN4R4G2ipTlnIkLhU4A&sa=X&ved=2ahUKEwjh5NeRtqGKAxXHe_UHHV-pCSgQtKgLegQIEBAB&biw=1536&bih=730&dpr=1.25#vhid=ZcRN3FCKtMXNVM&vssid=mosaic
